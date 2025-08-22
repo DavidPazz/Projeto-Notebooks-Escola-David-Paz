@@ -42,7 +42,12 @@ Do ponto de vista operacional, os notebooks modernos consomem significativamente
 | **Portas**       | 2x USB-A, 1x USB-C, HDMI    | 2x Thunderbolt 4, HDMI, USB-A |
 | **Garantia**     | 12 meses                    | 24 meses                   |
 
-<img align="center" alt="DAVID-PAZ-HTML" height="50%" width="70%" src="Dell.png"> 
+
+
+<div align= "center" style="display: inline_block" >
+  <img  align= "center" alt="DAVID-PAZ-HTML" height="50%" width="40%" src="Dell.png"> 
+  <img  align= "center" alt="DAVID-PAZ-HTML" height="50%" width="40%" src="Lenovo.png"> </div>
+  
 Figura 1: Modelo de notebook com especificações ideais para ambiente educacional
 
 ---
