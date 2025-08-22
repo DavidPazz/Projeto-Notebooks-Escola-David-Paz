@@ -18,12 +18,11 @@ Do ponto de vista operacional, os notebooks modernos consomem significativamente
 ---
 
 <h3>3. Objetivos</h3>
-- Modernizar integralmente a infraestrutura tecnológica da escola mediante substituição de 30 desktops obsoletos por notebooks modernos  
-- Promover mobilidade e flexibilidade no uso dos recursos computacionais, permitindo utilização em múltiplos ambientes educacionais  
-- Reduzir em 30% o consumo de energia em comparação com os desktops atualmente em uso  
-- Aumentar em 40% a utilização dos equipamentos através do uso em diferentes espaços da escola  
-- Implementar sistema completo de segurança com rastreamento e proteção para garantia do investimento  
-- Capacitar professores e técnicos para aproveitamento máximo dos novos recursos tecnológicos  
+<div>- Modernizar integralmente a infraestrutura tecnológica da escola mediante substituição de 30 desktops obsoletos por notebooks modernos </div>
+<div>- Reduzir em 30% o consumo de energia em comparação com os desktops atualmente em uso  </div>
+<div>- Aumentar em 40% a utilização dos equipamentos através do uso em diferentes espaços da escola  </div>
+<div>- Implementar sistema completo de segurança com rastreamento e proteção para garantia do investimento </div>
+<div>- Capacitar professores e técnicos para aproveitamento máximo dos novos recursos tecnológicos </div>
 
 ---
 
@@ -53,9 +52,9 @@ Figura 1: Modelo de notebook com especificações ideais para ambiente educacion
 ---
 
 <h3>Referências Técnicas</h3>
-- Especificações para Educação - Intel Education  
-- Notebooks para Educação - Dell Technologies  
-- Vantagens dos Notebooks em Ambiente Educacional - Microsoft Education  
+<div>- Especificações para Educação - Intel Education  </div>
+<div>- Notebooks para Educação - Dell Technologies </div> 
+<div>- Vantagens dos Notebooks em Ambiente Educacional - Microsoft Education </div> 
 
 ---
 
