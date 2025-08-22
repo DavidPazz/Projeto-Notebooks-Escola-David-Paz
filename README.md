@@ -1,16 +1,12 @@
 # Projeto-Notebooks-Escola-David-Paz
-Projeto técnico para aquisição de notebooks - Português Instrumental
-
-
 <h2>Projeto de Modernização Tecnológica: Aquisição de Notebooks para a Escola Estadual de Tecnologia e Inovação</h2>
 
-<h3>Resumo Executivo</h3>
+<h3>1. Resumo Executivo</h3>
 A Escola Estadual de Tecnologia e Inovação enfrenta sérios desafios com computadores obsoletos e limitantes para o ensino contemporâneo. Este projeto propõe a aquisição de 30 notebooks modernos para substituição integral dos desktops atuais, garantindo mobilidade, flexibilidade pedagógica e atualização tecnológica. Os principais benefícios incluem melhoria na qualidade do ensino, redução de custos operacionais em 30% e otimização do espaço físico, posicionando a instituição na vanguarda da educação tecnológica.
 
 ---
 
-<h3>
-Introdução e Justificativa</h3>
+<h3>2. Introdução e Justificativa</h3>
 O cenário tecnológico atual da nossa instituição é preocupante. Utilizamos computadores desktop com mais de oito anos de utilização, equipamentos com hardware defasado e desempenho insuficiente para aplicações educacionais modernas. Esta limitação técnica impacta diretamente a qualidade do ensino, impedindo a implementação de metodologias inovadoras e restringindo o acesso dos estudantes às ferramentas tecnológicas essenciais para sua formação.
 
 A fixação dos equipamentos em laboratórios específicos constitui outra limitação significativa, impossibilitando a realização de aulas dinâmicas em diferentes espaços da escola e dificultando a integração transversal da tecnologia no currículo educacional. Esta rigidez operacional impede que professores desenvolvam atividades pedagógicas inovadoras que requeiram mobilidade e flexibilidade de ambientes.
@@ -21,7 +17,7 @@ Do ponto de vista operacional, os notebooks modernos consomem significativamente
 
 ---
 
-<h3>Objetivos</h3>
+<h3>3. Objetivos</h3>
 - Modernizar integralmente a infraestrutura tecnológica da escola mediante substituição de 30 desktops obsoletos por notebooks modernos  
 - Promover mobilidade e flexibilidade no uso dos recursos computacionais, permitindo utilização em múltiplos ambientes educacionais  
 - Reduzir em 30% o consumo de energia em comparação com os desktops atualmente em uso  
@@ -31,7 +27,7 @@ Do ponto de vista operacional, os notebooks modernos consomem significativamente
 
 ---
 
-<h3>Especificações Técnicas dos Notebooks</h3>
+<h3>4. Especificações Técnicas dos Notebooks</h3>
 
 | Componente       | Especificação Mínima       | Especificação Recomendada |
 |------------------|-----------------------------|----------------------------|
@@ -46,8 +42,8 @@ Do ponto de vista operacional, os notebooks modernos consomem significativamente
 | **Portas**       | 2x USB-A, 1x USB-C, HDMI    | 2x Thunderbolt 4, HDMI, USB-A |
 | **Garantia**     | 12 meses                    | 24 meses                   |
 
-![Notebook Educacional](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftechinter.com.br%2Fnotebooks%2Fnotebook-para-estudar%2F&psig=AOvVaw3WR2eO0x-aaKQbhv-dTGId&ust=1755956835090000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOCBto7Hno8DFQAAAAAdAAAAABAE)  
-*Figura 1: Modelo de notebook com especificações ideais para ambiente educacional*
+<img align="center" alt="DAVID-PAZ-HTML" height="50%" width="70%" src="Dell.png"> 
+Figura 1: Modelo de notebook com especificações ideais para ambiente educacional
 
 ---
 
@@ -58,7 +54,7 @@ Do ponto de vista operacional, os notebooks modernos consomem significativamente
 
 ---
 
-<h3>Orçamento Estimado</h3>
+<h3>5. Orçamento Estimado</h3>
 
 | Item                          | Custo Unitário (R$) | Quantidade | Custo Total (R$) |
 |--------------------------------|---------------------|------------|------------------|
@@ -74,7 +70,7 @@ Do ponto de vista operacional, os notebooks modernos consomem significativamente
 
 ---
 
-<h3>Benefícios Esperados</h3>
+<h3>6. Benefícios Esperados</h3>
 
 <h4>Para os Alunos</h4>
 A aquisição dos notebooks proporcionará aos estudantes acesso a tecnologia moderna e portátil, possibilitando o desenvolvimento de atividades pedagógicas inovadoras e a aquisição de competências digitais essenciais para sua formação integral. A mobilidade dos equipamentos permitirá realização de atividades em grupo colaborativas, pesquisas em tempo real em diferentes ambientes da escola e desenvolvimento de projetos interdisciplinares com suporte tecnológico imediato.
@@ -92,7 +88,7 @@ A manutenção dos notebooks é significativamente mais simples e econômica que
 
 ---
 
-<h3>Cronograma (Simplificado)</h3>
+<h3>7. Cronograma (Simplificado)</h3>
 
 | Fase          | Duração   | Período                | Responsáveis       |
 |---------------|-----------|------------------------|--------------------|
@@ -105,8 +101,7 @@ A manutenção dos notebooks é significativamente mais simples e econômica que
 
 ---
 
-<h3>
-Considerações Finais</h3>
+<h3>8. Considerações Finais</h3>
 A aquisição dos notebooks aqui proposta configura-se como investimento estratégico de fundamental importância para o futuro da Escola Estadual de Tecnologia e Inovação. Esta iniciativa alinha-se perfeitamente com as demandas contemporâneas por mobilidade e integração tecnológica, posicionando a instituição na vanguarda da educação tecnológica. A substituição dos desktops obsoletos por notebooks modernos transcende a mera atualização equipamental; representa transformação profunda na forma de conceber e implementar o uso educativo da tecnologia.
 
 Os benefícios pedagógicos esperados justificam amplamente o investimento proposto, com impactos positivos no processo de ensino-aprendizagem que perdurarão por anos. A modernização da infraestrutura tecnológica tornará o processo educacional mais dinâmico, integrado e alinhado com as exigências do mundo contemporâneo. Os notebooks demonstram-se como a solução ideal pelo equilíbrio entre performance, mobilidade, custo-benefício e durabilidadade, oferecendo flexibilidade necessária para os desafios educacionais do século XXI.
